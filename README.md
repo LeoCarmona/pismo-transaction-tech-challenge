@@ -54,4 +54,4 @@ After deploy, you can see all API documentations in http://localhost:8080/swagge
 
 Example:
 
-![Swagger Documentation Example](assets/swagger-documentation-example.png?raw=true "Swagger Documentation Example")
+![Transaction API Documentation Example](assets/transaction-api-documentation.png.png "Transaction API Documentation Example")

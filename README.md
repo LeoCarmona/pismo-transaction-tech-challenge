@@ -11,7 +11,7 @@ For building and running the application you need:
 
 For build and deploy the application, open your console and move to **pipeline** folder.
 
-``` bash
+```shell
 $ cd pipeline
 ```
 
@@ -19,28 +19,32 @@ $ cd pipeline
 
 First, build the application to generate a jar file:
 
-``` bash
+```shell
 $ ./build-application.sh
 ```
 
 If you want to use **Docker**, you can build an image:
 
-``` bash
+```shell
 $ ./build-dockerfile.sh
 ```
+
+This will create:
+
+* A **Docker** image called "pismo/transaction-api:latest".
 
 ### 2.2 Deploy
 
 After the application was built, you can deploy the application in **standalone** mode:
 
-``` bash
+```shell
 $ ./run-standalone.sh
 ```
 
 Or in **Docker** mode:
 
 
-``` bash
+```shell
 $ ./run-docker.sh
 ```
 

@@ -1,5 +1,7 @@
 # Pismo Transaction Tech Challenge
 
+[![Build Status](https://travis-ci.org/LeoCarmona/pismo-transaction-tech-challenge.svg?branch=main)](https://travis-ci.org/LeoCarmona/pismo-transaction-tech-challenge)
+
 ## 1. Requirements
 
 For building and running the application you need:

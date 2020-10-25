@@ -51,3 +51,7 @@ $ ./run-docker.sh
 ## 3. API Documentation with Swagger
 
 After deploy, you can see all API documentations in http://localhost:8080/swagger-ui.html#/.
+
+Example:
+
+![Swagger Documentation Example](assets/swagger-documentation-example.png?raw=true "Swagger Documentation Example")

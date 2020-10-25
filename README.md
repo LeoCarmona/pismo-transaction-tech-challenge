@@ -1,4 +1,4 @@
-# pismo-transaction-tech-challenge
+# Pismo Transaction Tech Challenge
 
 ## 1. Requirements
 

@@ -1,5 +1,9 @@
 # Pismo Transaction Tech Challenge
 
+[![Build Status](https://travis-ci.org/LeoCarmona/pismo-transaction-tech-challenge.svg?branch=main)](https://travis-ci.org/LeoCarmona/pismo-transaction-tech-challenge)
+[![Coverage Status](https://coveralls.io/repos/github/LeoCarmona/pismo-transaction-tech-challenge/badge.svg?branch=main)](https://coveralls.io/github/LeoCarmona/pismo-transaction-tech-challenge?branch=main)
+[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
+
 ## 1. Requirements
 
 For building and running the application you need:
@@ -54,4 +58,4 @@ After deploy, you can see all API documentations in http://localhost:8080/swagge
 
 Example:
 
-![Transaction API Documentation Example](assets/transaction-api-documentation.png.png "Transaction API Documentation Example")
+![Transaction API Documentation Example](assets/transaction-api-documentation.png "Transaction API Documentation Example")

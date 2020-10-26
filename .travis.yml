@@ -1,5 +1,5 @@
 language: java
 script:
- - ./gradlew clean build -x test
+ - ./gradlew clean build
 jdk:
  - openjdk8
